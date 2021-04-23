@@ -1,2 +1,2 @@
 # medievalMayhem
-mediaevalMayhem.hithub.io
+medieavalMayhem.hithub.io
