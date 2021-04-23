@@ -1,2 +1,1 @@
-# medievalMayhem
-medieavalMayhem.github.io
+# medievalMayhem.github.io
